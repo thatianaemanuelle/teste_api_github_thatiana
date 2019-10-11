@@ -4,9 +4,13 @@
 
 ### Commandos
 | Command |
+
 | --- | --- |
+
 | `npm install` | Instala das dependências necessárias |
+
 | `npm start` | Inicia o servidor |
+
 | `npm t` | Roda todos os testes |
 
 ### Rota
