@@ -11,20 +11,20 @@
 
 ### Rota
 
-GET `/api/users?name=abc123`
-[
-     {
-        "id": 1,
-        "login": "abc123",
-        "repos_url": "https://api.github.com/users/abc123/repos",
-        "repos": [
-            {
-                "id": 79038661,
-                "name": "awesome-movies",
-                "stargazers_count": 8
-            }
-        ]
-}
+> GET /api/users?name=abc123`
+> [
+>     {
+>        "id": 1,
+>        "login": "abc123",
+>        "repos_url": "https://api.github.com/users/abc123/repos",
+>        "repos": [
+>            {
+>                "id": 79038661,
+>                "name": "awesome-movies",
+>                "stargazers_count": 8
+>            }
+>        ]
+>}
 
 ### Framework utilizado 
 Express
