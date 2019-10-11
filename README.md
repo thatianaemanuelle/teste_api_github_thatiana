@@ -3,15 +3,11 @@
 ## Para executar é necesário ter instalado o node ^10 e npm ^6
 
 ### Commandos
-| Command |
 
-| --- | --- |
 
-| `npm install` | Instala das dependências necessárias |
-
-| `npm start` | Inicia o servidor |
-
-| `npm t` | Roda todos os testes |
+- `npm install` | Instala das dependências necessárias |
+- `npm start` | Inicia o servidor |
+- `npm t` | Roda todos os testes |
 
 ### Rota
 
